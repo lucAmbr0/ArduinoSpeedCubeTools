@@ -1,7 +1,6 @@
 @lucAmbr0
 
 - This is my Arduino sketch built in about three days, basically it just generate a bunch of moves to scramble the cube, and then, using an ultrasonic distance sensor, it detects when you start solving it, and shows on the LCD Display how much time it took, while it prints all the previous records on the serial monitor that can be accessed from the Arduino IDE.
-- Hope you enjoy this tiny project made by me <3
 
 
 About me:
